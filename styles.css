@@ -1,0 +1,16 @@
+.papa{
+   text-align: center;
+}
+.sime img{
+    height: 270px;
+    width: 270px;
+}
+.sime{
+    margin-bottom: 50px;
+}
+@media (max-width:425px) {
+ .sime img{
+    width:100vw;
+    height:310px;
+ }   
+}
